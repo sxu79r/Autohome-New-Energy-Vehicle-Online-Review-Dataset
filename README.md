@@ -1,6 +1,6 @@
 # Autohome-New-Energy-Vehicle-Online-Review-Dataset
-汽车之家新能源汽车在线评论数据集，其中有7w条做了情感标注,4w条未标注。标注规则:选取高星评论为积极评论，低星评论为消极评论。评论爬取时间:2024.7.11
-# 数据详细
+以前做项目用过的汽车之家新能源汽车在线评论数据集，其中有7w条做了情感标注,4w条未标注。标注规则:选取高星评论为积极评论，低星评论为消极评论。评论爬取时间:2024.7.11
+## 数据详细
 <p align="center">
 <img width="593" height="447" alt="image" src="https://github.com/user-attachments/assets/7d4403db-f8cd-40c4-9d97-4600e4edb9ce" />
 </p>
@@ -15,7 +15,9 @@
   无情感标注:61517条
 </p>
 
+## 下载
+前往[releases](https://github.com/sxu79r/Autohome-New-Energy-Vehicle-Online-Review-Dataset/releases)下载
 
-# 源代码
+## 源代码
 代码编写于2024.07，上传日期2025.09.19未经测试，不保证现在仍然能够使用。
 
